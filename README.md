@@ -1,2 +1,2 @@
 # tictactoe_ai
-In this game the computer never loses in a tictactoe game.
+In this game, the computer is unbeatable in tic-tac-toe.
